@@ -1,0 +1,37 @@
+.parrafo-borde {
+    width: 50%;
+    height: 30%;
+    margin: 20px auto;
+}
+
+.solid {
+    border: 2px solid #075B5E;
+}
+
+.dashed {
+    border: 2px dashed #FF3F33;
+}
+
+.dotted {
+    border: 2px dotted #0A878C;
+}
+
+.double {
+    border: 4px double #BE5B50;
+}
+
+.groove {
+    border: 4px groove #8A2D3B;
+}
+
+.ridge {
+    border: 4px ridge #641B2E;
+}
+
+.inset {
+    border: 4px inset #FF3F33;
+}
+
+.outset {
+    border: 4px outset #075B5E;
+}

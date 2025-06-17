@@ -1,0 +1,33 @@
+body {
+    background-color: #FFE6E1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parrafo {
+    width: 50%;
+    height: auto;
+}
+
+.centrado {
+    background-color: #FFFBCC;
+    color: #075B5E;
+    border: 2px solid #FF3F33;
+    margin: 24px auto;
+    text-align: center;
+}
+
+.derecha {
+    background-color: #D1E7FF;
+    color: #641B2E;
+    border: 2px dashed #0A878C;
+    margin-left: auto;
+    text-align: right;
+}
+
+.izquierda {
+    background-color: #E1FFD1;
+    color: #BE5B50;
+    border: 2px dotted #8A2D3B;
+    margin-right: auto;
+    text-align: left;
+}
